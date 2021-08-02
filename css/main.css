@@ -1,0 +1,144 @@
+.size{
+    size: 100vh;
+}
+a{
+    cursor: pointer;
+}
+
+.title-underlines2{
+    width:160px;
+    height:10px;
+    margin:0 auto;
+}
+.title-underlines{
+    width:35vh;
+    height:10px;
+    margin:0 auto;
+    margin-top:2vh;
+}
+#help{
+    text-align: center;
+}
+.contact{
+    font-size: 5vh;
+}
+.phone{
+    font-size:7vh ;
+}
+
+.color{
+    color:greenyellow;
+    
+}
+    #head {
+        font-family: 'Poppins', sans-serif;
+        background: #4834d4;
+        background: -webkit-linear-gradient(to right, #4834d4, #341f97);
+        background: -webkit-linear-gradient(left, #4834d4, #341f97);
+        background: linear-gradient(to right, #4834d4, #341f97);
+    }
+   
+    #decorate{
+        color:lightslategrey;
+    }
+
+    #footer{
+        font-family: 'Poppins', sans-serif;
+        text-shadow:white;
+        text-rendering: geometricPrecision;
+        color:lightcyan;
+        background: #4834d4;
+        background: -webkit-linear-gradient(to right, #4834d4, #341f97);
+        background: -webkit-linear-gradient(left, #4834d4, #341f97);
+        background: linear-gradient(to right, #4834d4, #341f97);
+        height:65vh;
+    }
+
+    #trans{
+        background: transparent;
+        padding: 5px;
+        border-color:wheat;
+    } 
+    #trans:hover{
+        background:lightgray;
+        border-color:lightgray;  
+    }
+    .trans{
+        color:white;
+        background:darkblue;
+    }
+    .trans:hover{
+        color:white;
+        background:darkgreen;
+    }
+    .core{
+        min-width: 37vh;
+    }
+    .height{
+        height:70px;
+        padding-bottom: 150px;
+    }
+
+      
+.pro{
+    height: 100vh;
+}
+#submit{
+    cursor: pointer;
+}
+#submit:hover{
+    background: #4834d4;
+    color:white;
+}
+.design{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+#carousel{
+    background-image: linear-gradient(to right bottom, #b123d8, #008eff, #00c3ff, #00e6db, #0afd74);
+}
+#contact{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+#sign{
+    color: red;
+}
+.heig{
+    height: 100hv;
+}
+#pic{
+    background:linear-gradient(rgba( 0,0,0,0.5),rgba(0,0,0,0.5)) ,url(../img/images.png)no-repeat;
+    background-position:center ;
+    background-clip: padding-box;
+    background-position-y:bottom;
+}
+.pad{
+    padding-right:502hv;
+}
+.hm{
+    font-family: 'Pacifico', cursive;
+}
+#bg{
+    background: rgb(69,180,58);
+    background: linear-gradient(180deg, rgba(69,180,58,1) 22%, rgba(44,192,190,1) 36%, rgba(29,105,253,0.35057773109243695) 75%, rgba(198,69,252,0.43461134453781514) 100%);
+}
+
+#bg1{
+    background: rgb(34,61,195);
+background: linear-gradient(0deg, rgba(34,61,195,1) 0%, rgba(160,45,253,0.5830707282913166) 100%);
+}
+#bg2{
+    background: rgb(160,45,253);
+background: linear-gradient(0deg, rgba(160,45,253,1) 0%, rgba(219,45,253,0.5830707282913166) 100%);
+}
+
+.s{
+    font-family: 'Indie Flower', cursive;
+}
+
+.st{
+    font-family: 'Courgette', cursive;
+font-family: 'Indie Flower', cursive;
+}
